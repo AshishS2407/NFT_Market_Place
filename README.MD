@@ -16,7 +16,7 @@
 [View Contract on Etherscan](https://sepolia.etherscan.io/address/0x30aBc06B9b1753f62Fb126A5f6FA880Bb6F6f238)
 
 ### 2. **Upgradable Sepolia Deployment**:
-[View Upgradable Contract on Etherscan](https://sepolia.etherscan.io/address/0xbD8AFA3F770A4652cFEa89Dd744d02078e195138)
+[View Upgradable Contract on Etherscan](https://sepolia.etherscan.io/address/0xa5d4cEbFE772d6bA390958bA54AB01132F48E862)
 
 ---
 
