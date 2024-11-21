@@ -26,6 +26,3 @@
 
 ---
 
-## 📄 **License**
-
-This projec
